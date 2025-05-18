@@ -24,7 +24,7 @@ Cyber Crime
 
     Modern type – increased with internet use.
 
-    Needs digital tools – like software or viruses.
+    Needs digital tools – like software or viruses.    
 
     Handled by cyber cell – with digital tracking.
 
@@ -67,8 +67,16 @@ Q2: short note on Strong, Weak, and Random Passwords
 
     Very hard to guess.
 
+Q3: What is Computer virus and worm virus ?
 
+    Computer virus is attach to a file of any other document in the computer and when we try to 
+    share some file or resources through computer then the virus move throuth the shared file . 
+    Once active, it can replicate into other files, corrupt data, display unwanted messages, 
+    or even delete information. Computer virus is very first to spread.
 
+    Warm virus standalone that does not need to attach to another file.It spreads 
+    automatically across networks by exploiting security holes—no human action required 
+    after the first infection.Worms often slow networks or devices by rapidly replicating
 
 
 
