@@ -30,3 +30,45 @@ Cyber Crime
 
     Victim may not know attacker – often anonymous.
 
+
+
+
+Q2: short note on Strong, Weak, and Random Passwords
+
+1. Strong Password
+
+    Hard to guess.
+
+    Has uppercase, lowercase, numbers, and symbols.
+
+    Usually 8 or more characters.
+
+    Example: D@lim#123
+
+    Safe for online accounts.
+
+❌ 2. Weak Password
+
+    Easy to guess or crack.
+
+    Uses common words or simple numbers.
+
+    Example: 123456, password, dalim
+
+    Not safe to use.
+
+🎲 3. Random Password
+
+    Made with no pattern.
+
+    Mix of letters, numbers, symbols.
+
+    Example: 4gT@9bX#1z
+
+    Very hard to guess.
+
+
+
+
+
+
